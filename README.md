@@ -1,8 +1,9 @@
 <h2> Hi there 👋 </h2>
 <br />
-<h3> ✉️  Email: matuszynski.dawid00@gmail.com </h3>
+<h3> ✉️  Email:  matuszynski.dawid00@gmail.com </h3>
 <h3> 📄 Personal website:  https://dawid-matuszynski.pl/ </h3>
 <h3> <img src="https://seeklogo.com/images/F/figma-logo-E4E21D3AEA-seeklogo.com.png" height="24" /> Figma:  https://www.figma.com/@pelak </h3>
+<h3> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="24" /> Linkedin:  https://www.linkedin.com/in/dawid-matuszy%C5%84ski-92093b208/ </h3>
 <br />
 <h2> About Me </h2>
 <ul>
