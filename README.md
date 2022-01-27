@@ -8,7 +8,6 @@
 <ul>
   <li> 💡  I like to explore new technologies and look for solutions and quick hacks. </li>
   <li> 🎓  I'm currently learning <b>React</b>, <b>Angular</b> and <b>Redux</b>. </li>
-  <li> ✍️  In my free time I like to watch programming tutorials and play games. </li>
 </ul>
 <br />
 <p>
