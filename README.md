@@ -16,6 +16,7 @@
   <img src="https://camo.githubusercontent.com/bda07471d3b323743fa603f92b28d559ce5da939b02fb70656b0a5fa65157121/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f362f36322f435353335f6c6f676f2e7376672f343870782d435353335f6c6f676f2e7376672e706e67" width="40" height="40" />
   <img src="https://camo.githubusercontent.com/b4ff7f14956d1e50e56f37992f87c6a73166345ea928b6dbe1140db457b9707b/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f392f39392f556e6f6666696369616c5f4a6176615363726970745f6c6f676f5f322e7376672f3130323470782d556e6f6666696369616c5f4a6176615363726970745f6c6f676f5f322e7376672e706e67" width="40" height="40" />
   <img src="https://camo.githubusercontent.com/4112948ca937900fbcd0eb4a0ed71f8672399586f4614ef7119268d079207878/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f626f6f7473747261702d342e737667" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" height="40" />
   <img src="https://miro.medium.com/max/500/1*cPh7ujRIfcHAy4kW2ADGOw.png" width="40" height="40" />
   <img src="https://angular.io/assets/images/logos/angular/angular.png" width="40" height="40" />
