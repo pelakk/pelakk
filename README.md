@@ -7,7 +7,7 @@
 <h2> About Me </h2>
 <ul>
   <li>3 years of experience</li>
-  <li>React, Nextjs, Typescript, Figma, Git</li>
+  <li>React, Nextjs, Typescript, Zustand, Figma, Git</li>
   <li>Polish, English</li>
 </ul>
 <br />
